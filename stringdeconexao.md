@@ -1,0 +1,1 @@
+ "Conexao": "Server=DSKBCC09\\SQLEXPRESS;Database=galotodos;User Id = sa;Password=!Abc123;TrustServerCertificate=true;Encrypt=false"
